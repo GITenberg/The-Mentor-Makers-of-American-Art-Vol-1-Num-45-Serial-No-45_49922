@@ -1,10 +1,16 @@
 _repo: The-Mentor-Makers-of-American-Art-Vol-1-Num-45-Serial-No-45_49922
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49922-h/images/cover.jpg
 creator:
   author:
     agent_name: Willing, J. Thomson
     gutenberg_agent_id: '45611'
     url: http://www.gutenberg.org/2009/agents/45611
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49922#The-Mentor-Makers-of-American-Art-Vol-1-Num-45-Serial-No-45
 gutenberg_issued: '2015-09-09'
 gutenberg_type: Text
 identifiers:
