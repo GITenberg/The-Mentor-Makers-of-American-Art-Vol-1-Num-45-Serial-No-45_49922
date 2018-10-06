@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: Makers of American Art, Vol. 1, Num. 45, Serial No. 45'
 url: http://www.gutenberg.org/ebooks/49922
